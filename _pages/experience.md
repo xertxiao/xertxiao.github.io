@@ -15,13 +15,13 @@ author_profile: true
 
 **Scalable Analytics Institute (ScAi), UCLA** <br>
 <span style="font-size:20px; font-style: oblique;">
-    Data Science Intern. <br> 
+    Research Intern. <br> 
     Dec. 2019 - Now
 </span>
 
 **Internet Research Laboratory (IRL), UCLA** <br>
 <span style="font-size:20px; font-style: oblique;">
-    Data Science Intern. <br>
+    Research Intern. <br>
     Jun. 2020 - Sep. 2020
 </span>
 
