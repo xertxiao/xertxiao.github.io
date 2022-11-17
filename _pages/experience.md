@@ -27,7 +27,7 @@ author_profile: true
 
 **Taboola, Inc.** <br>
 <span style="font-size:20px; font-style: oblique;">
-    Data Science Intern. <br>
+    Machine Learning/Data Science Intern. <br>
     Jun. 2019 - Sep. 2019
 </span>
 
