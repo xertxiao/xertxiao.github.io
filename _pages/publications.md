@@ -8,9 +8,8 @@ author_profile: true
 ## Publications
 
 A Datalog based Query Language for Supporting Recursive Query Processing over Data Streams <br>
-*Under Review* <br>
+*Ongoing* <br>
 **Guorui Xiao**, Jin Wang, Jiacheng Wu, Carlo Zaniolo <br>
-*ICDE 2023*
 
 [Highly Efficient String Similarity Search and Join over Compressed Indexes](https://ieeexplore.ieee.org/document/9835221) <br>
 **Guorui Xiao**, Jin Wang, Chunbin Lin, Carlo Zaniolo <br>
