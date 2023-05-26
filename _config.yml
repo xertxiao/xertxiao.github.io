@@ -62,8 +62,8 @@ plugins:
 author:
   name   : "Guorui Xiao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M.S. Student in COM SCI @ UCLA"
-  email  : "grxiao@cs.ucla.edu"
+  bio    : "Incoming PhD Student in COM SCI @ UW"
+  email  : "grxiao@uw.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

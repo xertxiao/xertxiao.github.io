@@ -31,4 +31,4 @@ For more detailed information, please refer to my CV [here](/assets/files/CV_Guo
 
 ## Contact
 
-**Email:** grxiao at cs.ucla.edu
+**Email:** grxiao at uw.edu
