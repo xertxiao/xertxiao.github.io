@@ -9,9 +9,9 @@ Guorui Xiao is an incoming PhD student at the [Paul G. Allen School of Computer 
 
 <!-- Guorui's research interests include databases, datastreams, and machine learning systems. His ultimate aim is to contribute to build usable,scalable, data-intensive systems. He is open to collaborations and insightful discussions, so feel free to reach out to him! -->
 
-Guorui's research interests include databases, datastreams, and big data systems. His ultimate aim is to contribute to build usable,scalable, data-intensive systems. He is open to collaborations and insightful discussions, so feel free to reach out to him!
+Guorui's research interests include databases, datastreams, ML system, and big data systems. His ultimate aim is to contribute to build usable,scalable, data-intensive systems. He is open to collaborations and insightful discussions, so feel free to reach out to him! :-)
 
-For more detailed information, please refer to my CV [here](/assets/files/CV_Guorui_Xiao_2023_v2.pdf).
+For more detailed information, please refer to my CV [here](/assets/files/CV_Guorui_Xiao_2023.pdf).
 
 ## Education
 
