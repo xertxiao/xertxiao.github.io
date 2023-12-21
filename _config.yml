@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guorui Xiao
-email: grxiao@cs.ucla.edu
+email: grxiao@cs.washington.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Guorui Xiao is currently a final year student in the 
-  Computer Science Department at the University of California, Los Angeles 
-  completing a Master of Science degree. He is actively applying for Ph.D. programs starting in Fall 2023. 
+  Guorui Xiao is currently a first year Ph.D. stduent in the 
+  CSE Department at the University of Washington 
+  working with Professor Magdalena Balazinska.
   His research interests lie in the database, network, and machine learning systems, 
   with the ultimate goal of building scalable data-intensive systems. 
 twitter_username: GuoruiXiao

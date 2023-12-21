@@ -37,18 +37,6 @@ author_profile: true
     Jun. 2018 - Sep. 2018
 </span>
 
-<!-- **Taboola, Inc.** <br>
-<span style="font-size:20px; font-style: oblique;">
-    Machine Learning/Data Science Intern. <br>
-    Jun. 2019 - Sep. 2019
-</span>
-
-**Qihoo 360 Technology Co.** <br>
-<span style="font-size:20px; font-style: oblique;">
-    Machine Learning Research Intern. <br>
-    Jun. 2018 - Sep. 2018
-</span> -->
-
 
 ## Teaching
 
