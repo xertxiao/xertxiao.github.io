@@ -11,6 +11,14 @@ A Datalog based Query Language for Supporting Recursive Query Processing over Da
 *Ongoing* <br>
 **Guorui Xiao**, Jin Wang, Jiacheng Wu, Carlo Zaniolo <br>
 
+RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph <br>
+*Ongoing* <br>
+Linxi Wei, **Guorui Xiao**, Magdalena Balazinska <br>
+
+[Revealing Protocol Architecture’s Design Patterns in the Volumetric DDoS Defense Design Space](https://ieeexplore.ieee.org/document/10506756) <br>
+Zhiyi Zhang, **Guorui Xiao**, Sichen Song, R. Can Aygun, Angelos Stavrou, Lixia Zhang <br>
+*IEEE Communications Surveys and Tutorials 2024*
+
 [Highly Efficient String Similarity Search and Join over Compressed Indexes](https://ieeexplore.ieee.org/document/9835221) <br>
 **Guorui Xiao**, Jin Wang, Chunbin Lin, Carlo Zaniolo <br>
 *ICDE 2022*
