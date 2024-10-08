@@ -8,11 +8,11 @@ author_profile: true
 ## Publications
 
 A Datalog based Query Language for Supporting Recursive Query Processing over Data Streams <br>
-*Ongoing* <br>
+*Under Review* <br>
 **Guorui Xiao**, Jin Wang, Jiacheng Wu, Carlo Zaniolo <br>
 
 [RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph](https://arxiv.org/abs/2409.14556) <br>
-*Ongoing* <br>
+*Under Review* <br>
 Linxi Wei, **Guorui Xiao**, Magdalena Balazinska <br>
 
 [Revealing Protocol Architecture’s Design Patterns in the Volumetric DDoS Defense Design Space](https://ieeexplore.ieee.org/document/10506756) <br>

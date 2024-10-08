@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Guorui Xiao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Student in COM SCI @ UW"
+  bio    : "Ph.D. Student in CS @ UW"
   email  : "grxiao@uw.edu"
   links:
     - label: "Website"
