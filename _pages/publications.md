@@ -11,7 +11,7 @@ A Datalog based Query Language for Supporting Recursive Query Processing over Da
 *Ongoing* <br>
 **Guorui Xiao**, Jin Wang, Jiacheng Wu, Carlo Zaniolo <br>
 
-RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph <br>
+[RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph](https://arxiv.org/abs/2409.14556) <br>
 *Ongoing* <br>
 Linxi Wei, **Guorui Xiao**, Magdalena Balazinska <br>
 
