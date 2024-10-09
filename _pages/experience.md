@@ -7,7 +7,7 @@ author_profile: true
 
 ## Industry & Lab
 
-**University of Washington Database Group (UWDB)**
+**University of Washington Database Group (UWDB)** <br>
 <span style="font-size:20px; font-style: oblique;">
     Research Assistant. <br> 
     Dec. 2023 - Now
