@@ -7,6 +7,12 @@ author_profile: true
 
 ## Industry & Lab
 
+**University of Washington Database Group (UWDB)**
+<span style="font-size:20px; font-style: oblique;">
+    Research Assistant. <br> 
+    Dec. 2023 - Now
+</span>
+
 **Arista Networks, Inc.** <br>
 <span style="font-size:20px; font-style: oblique;">
     Software Engineer Intern. <br> 
@@ -16,7 +22,7 @@ author_profile: true
 **Scalable Analytics Institute (ScAi), UCLA** <br>
 <span style="font-size:20px; font-style: oblique;">
     Research Intern. <br> 
-    Dec. 2019 - Now
+    Dec. 2019 - Mar. 2023
 </span>
 
 **Internet Research Laboratory (IRL), UCLA** <br>
