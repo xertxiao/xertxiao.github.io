@@ -9,7 +9,7 @@ Guorui Xiao is a second year Ph.D. student at the [Paul G. Allen School of Compu
 
 Guorui's research interests include data management, data stream, foundation models, ML systems, and big data systems. His ultimate aim is to contribute to build usable,scalable, data-intensive systems. He is open to collaborations and discussions, so feel free to reach out to him! :-)
 
-For more detailed information, please refer to my CV [here](/assets/files/CV_Guorui_Xiao_2024.pdf).
+For more detailed information, please refer to my CV [here](/assets/files/CV_Guorui_Xiao_2024_v2.pdf).
 
 ## Education
 
