@@ -5,11 +5,11 @@ title: "About Me"
 
 ## Bio
 
-Guorui Xiao is a second year Ph.D. student at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where he is working under the guidance of Professor [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). Prior to this, he completed his Master's degree in Computer Science at the University of California, Los Angeles (UCLA) where he had the opportunity to work with Professor [Carlo Zaniolo](http://web.cs.ucla.edu/~zaniolo/) on topics related to database and datastream.
+Guorui Xiao is a third year Ph.D. student at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where he is working under the guidance of Professor [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). Prior to this, he completed his Master's degree in Computer Science at the University of California, Los Angeles (UCLA) where he had the opportunity to work with Professor [Carlo Zaniolo](http://web.cs.ucla.edu/~zaniolo/) on topics related to database and datastream.
 
 Guorui's research interests include data management, data stream, foundation models, ML systems, and big data systems. His ultimate aim is to contribute to build usable,scalable, data-intensive systems. He is open to collaborations and discussions, so feel free to reach out to him! :-)
 
-For more detailed information, please refer to my CV [here](/assets/files/CV_Guorui_Xiao_2024_v2.pdf).
+For more detailed information, please refer to my CV [here](/assets/files/CV_Guorui_Xiao_2025.pdf).
 
 ## Education
 
