@@ -8,11 +8,11 @@ author_profile: true
 ## Selected Publications
 
 KathDB: Explainable Multimodal Database Management System with Human-AI Collaboration <br>
-*To Appear, CIDR 2026*
+*To Appear, CIDR 2026* <br>
 **Guorui Xiao**, Enhao Zhang, Nicole Sullivan, Will Hansen, and Magdalena Balazinska <br>
 
 [CENTS: A Flexible and Cost-Effective Framework for LLM-Based Table Understanding](https://dl.acm.org/doi/10.14778/3749646.3749714) <br>
-*VLDB 2025*
+*VLDB 2025* <br>
 **Guorui Xiao**, Done He, Jin Wang, Magdalena Balazinska<br>
 
 RACOON+:  System for LLM-based Table Understanding with a Knowledge Graph <br>
@@ -28,7 +28,7 @@ Linxi Wei, **Guorui Xiao**, Magdalena Balazinska <br>
 Zhiyi Zhang, **Guorui Xiao**, Sichen Song, R. Can Aygun, Angelos Stavrou, Lixia Zhang <br>
 
 [Highly Efficient String Similarity Search and Join over Compressed Indexes](https://ieeexplore.ieee.org/document/9835221) <br>
-*ICDE 2022*
+*ICDE 2022* <br>
 **Guorui Xiao**, Jin Wang, Chunbin Lin, Carlo Zaniolo <br>
 
 <!-- [Demonstration of LogicLib: An Expressive Multi-Language Interface over Scalable Datalog System](https://dl.acm.org/doi/abs/10.1145/3511808.3557174)<br>
