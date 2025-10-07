@@ -5,12 +5,18 @@ layout: single
 author_profile: true
 ---
 
-## Industry & Lab
+## Selected Industry & Lab
 
 **University of Washington Database Group (UWDB)** <br>
 <span style="font-size:20px; font-style: oblique;">
     Research Assistant. <br> 
     Dec. 2023 - Now
+</span>
+
+**Apple, Inc.** <br>
+<span style="font-size:20px; font-style: oblique;">
+    Research Intern. <br> 
+    Jun. 2025 - Sep.2025
 </span>
 
 **Arista Networks, Inc.** <br>
@@ -37,15 +43,18 @@ author_profile: true
     Jun. 2019 - Sep. 2019
 </span>
 
-**Qihoo 360 Technology Co.** <br>
+<!-- **Qihoo 360 Technology Co.** <br>
 <span style="font-size:20px; font-style: oblique;">
     Data Science Intern. <br>
     Jun. 2018 - Sep. 2018
-</span>
+</span> -->
 
 
 ## Teaching
 
 [COM SCI 35L](https://web.cs.ucla.edu/classes/fall21/cs35L/index.html): Software Construction Laboratory, *UCLA Fall 2021*
+
+## Mentoring
+[Lindsey Linxi Wei](https://lindseylinxiwei.github.io/LindseyLinxiWei/): UW Undergrad, on topics related to RAG for Table Understanding
 
 <!-- ## Projects -->
